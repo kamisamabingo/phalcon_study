@@ -11,3 +11,5 @@ $b=$a;
 print_r(xdebug_debug_zval('a'));
 
 echo "i can change the message!!";
+
+echo "i can write php code!!!";
