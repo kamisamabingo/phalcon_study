@@ -16,4 +16,6 @@ echo "i can write php code!!!";
 
 echo "i try test the git work!你大爷";
 
-echo "i add a new branch on git & DMD";
+
+echo "i add a new branch on git & go DMD";
+
